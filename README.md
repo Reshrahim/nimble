@@ -1,8 +1,5 @@
 # Nimble Example
 This repository is an example Radius setup for an application with four Radius resource types:
- 
-
-In the future, we will implement a `Radius.Resources/openAI` which deploys a model using Azure OpenAI.
 
 ## Overview of sample
 
